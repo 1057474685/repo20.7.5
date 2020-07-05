@@ -98,7 +98,7 @@
 		<dependency>
 			<groupId>commons-beanutils</groupId>
 			<artifactId>commons-beanutils</artifactId>
-			<version>1.9.2</version>
+			<version>1.9.4</version>
 			<scope>compile</scope>
 		</dependency>
 		<!--json字符串和JavaBean对象互相转换的过程中，需要使用jackson的jar包-->
